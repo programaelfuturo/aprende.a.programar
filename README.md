@@ -1,4 +1,4 @@
-Aprende a Programar
+Aprende a Programar Ruby
 ===================
 
 Este proyecto nace con la idea de enseñar los conceptos básicos de programación
