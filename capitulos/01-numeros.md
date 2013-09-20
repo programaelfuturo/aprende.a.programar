@@ -1,7 +1,7 @@
 Números
 =======
 
-Ahora que tienes todo [instalado](https://github.com/rubyperu/aprende.a.programar/blob/master/capitulos/00-inicio.md#inicio),
+Ahora que tienes todo [instalado](https://github.com/programaelfuturo/aprende.a.programar/blob/master/capitulos/00-inicio.md#inicio),
 ¡vamos a escribir un programa! Abre tu editor de texto favorito y escribe lo
 siguiente:
 
