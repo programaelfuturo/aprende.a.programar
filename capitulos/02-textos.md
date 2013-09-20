@@ -192,4 +192,5 @@ son idénticos. No parecen lo mismo en el código, pero en tu computadora
 son realmente los mismos. 
 
 Si tienes alguna pregunta, solo <a href="/capitulos/03-variables.html">¡sigue leyendo!</a>
+
 No podría contestar cada pregunta en <em>esta</em> página, después de todo.
