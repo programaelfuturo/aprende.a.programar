@@ -211,4 +211,4 @@ como el número favorito pero _más grande y mejorado_ (Pero hazlo con tacto).
 
 Una vez que hayas terminado los dos programas (y otros que hayas
 intentado), tratemos de aprender más (y más sobre)
-[¡métodos!](https://github.com/rubyperu/aprende.a.programar/blob/master/capitulos/05-acerca-de-metodos.md#m%C3%A1s-acerca-de-m%C3%A9todos).
+[¡métodos!](/capitulos/05-acerca-de-metodos.md#m%C3%A1s-acerca-de-m%C3%A9todos).
