@@ -136,4 +136,4 @@ Aquí hay una pregunta más difícil:
 * Si tengo 1031 millones de segundos de edad, ¿cuántos años tengo?
 
 Cuando termine de jugar con números, echemos un vistazo
-a algunos [textos](https://github.com/rubyperu/aprende.a.programar/blob/master/capitulos/02-textos.md#textos).
+a algunos [textos](https://github.com/programaelfuturo/aprende.a.programar/blob/master/capitulos/02-textos.md#textos).
