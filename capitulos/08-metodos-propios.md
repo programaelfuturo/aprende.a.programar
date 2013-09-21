@@ -428,9 +428,12 @@ a este *numeroEnEspanol*. Se llevará un número, como `22`, y devolverá
 la versión en español de la misma (en este caso el texto de `'veintidós'`)
 Por ahora, vamos a trabajar solamente con números enteros entre 0 a 100.
 
-*(**NOTA:** Este método utiliza un nuevo truco para retornar en forma temprana
+*(NOTA: Este método utiliza un nuevo truco para retornar en forma temprana
 en el método usando `return` e introduce un nuevo giro en las bifurcaciones: `elsif`.
 Debe quedar claro en el contexto de cómo funcionan estos.)*
+
+
+<script src="https://gist.github.com/Hernank/5173b2b61e2c062f5e3e.js"></script>
 
 *Código:*
 
@@ -498,7 +501,7 @@ Debe quedar claro en el contexto de cómo funcionan estos.)*
         elsif escrito == 3
           numeroDeTexto = numeroDeTexto + 'treinta'
         elsif escrito == 4
-          numeroDeTexto = numeroDeTexto + 'cuartenta'
+          numeroDeTexto = numeroDeTexto + 'cuarenta'
         elsif escrito == 5
           numeroDeTexto = numeroDeTexto + 'cincuenta'
         elsif escrito == 6
