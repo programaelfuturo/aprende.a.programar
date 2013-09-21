@@ -57,12 +57,10 @@ objetos en una matriz:
 
 *Resultado:*
 
-        Ada
-        Belle
-        Chris
-        Ada
-        Belle
-        Chris
+    ['Ada', 'Belle', 'Chris']
+    Ada
+    Belle
+    Chris
 
 
 Entonces, nosotros vemos que `'puts names'` imprime
@@ -149,7 +147,7 @@ Ellos son una parte fundamental del lenguaje Ruby,
 tal como `'='` y los paréntesis son tipos de puntuación como en español.
 
 Pero no `'each'`; `'each'` es solo otro método de la matriz.
-Métodos como `'each' los cuales 'actuan como' bucles son a menudo
+Métodos como `'each'` los cuales 'actuan como' bucles son a menudo
 llamados *iteradores*.
 
 Algo para saber sobre iteradores es que estos son siempre seguidos por
@@ -280,4 +278,4 @@ la matriz en una bien formada Tabla de Contenidos.
 
 Hemos aprendido varios métodos diferentes.
 Ahora es tiempo de aprender como
-[hacerlo por nosotros mismos](https://github.com/rubyperu/aprende.a.programar/blob/master/capitulos/08-metodos-propios.md#m%C3%A9todos-propios).
+[hacerlo por nosotros mismos](/capitulos/08-metodos-propios.md#m%C3%A9todos-propios).
