@@ -29,7 +29,8 @@ Absolutamente <em>el</em> libro Ruby a tener es "Programming Ruby 1.9,
 The Pragmatic Programmer's Guide", por Dave Thomas, Chad Fowler y Andrew
 Hunt (The Pragmatic Programmers). Mientras que recomiendo tomar la 
 <a href="http://pragprog.com/press_releases/programming-ruby-1-9">tercera edición</a>
-de este excelente libro, con todo lo último cubierto.
+de este excelente libro, con todo lo último <a href="http://it-ebooks.info/book/59/">cubierto.</a>
+<i>Aunque ya se tiene la <a href="http://it-ebooks.info/book/2712/">cuarta edicion</a> de la serie de este libro</i>
 
 Puedes encontrar todo lo que necesites de Ruby, desde lo básico a lo
 avanzado, en este libro. Es fácil de leer, fácil de entender, es perfecto.
@@ -151,4 +152,4 @@ y yo lo haré a mi manera.
 
 Usa esto para lo bueno y no para lo malo. :-)  Y si encuentras este tutorial
 útil (o confuso, o si encuentras un error),
-<a href="https://github.com/rubyperu/aprendeaprogramar.pe/issues">avísanos</a>!
+<a href="https://github.com/programaelfuturo/aprendeaprogramar.pe/issues">avísanos</a>!
