@@ -46,7 +46,7 @@ un índice. (ruby-doc.org tiene un montón más de grandiosos contenidos tambié
 como para el Core API y biblioteca estándar(Standard Library)... basicamente,
 documenta todo Ruby. <a href="http://www.ruby-doc.org/">Chequealo aquí.</a>)
 Ademas tambien es importante que documentes tu codigo , y luego poder visualizarlo mejor con un   archivo  html generado por 
-rdoc el cual se puede aprender a utilizarlo <a hrf?"http://rdoc.rubyforge.org/"> aqui</a>
+rdoc el cual se puede aprender a utilizarlo <a href="http://rdoc.rubyforge.org/"> aqui</a> o tambien <a href="http://rdoc.sourceforge.net/doc">aqui</a>
 
 Y porque es llamado "¿el pico"? Bueno, hay una imágen de un pico en la tapa del 
 libro. Es un nombre tonto, creo yo, pero quedó así.
