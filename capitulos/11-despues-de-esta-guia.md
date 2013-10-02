@@ -40,7 +40,7 @@ clase, explicandolo y dando ejemplos. ¡Me encanta este libro!
 
 Hay algunos lugares donde puedes conseguir una versión más antigua (incluyendo
 el sitio mismo  Pragmatic Programmers), pero mi lugar favorito es
-en <a href="http://www.ruby-doc.org/docs/ProgrammingRuby/">ruby-doc.org</a>.
+en <a href="http://www.ruby-doc.org/docs/ProgrammingRuby/">ruby-doc.org</a href="http://www.ruby-doc.org/"><a>(Home)</a>.
 Esta versión tiene una linda tabla de contenidos a un costado, como también
 un índice. (ruby-doc.org tiene un montón más de grandiosos contenidos también,
 como para el Core API y biblioteca estándar(Standard Library)... basicamente,
